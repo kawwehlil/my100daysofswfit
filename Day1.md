@@ -17,7 +17,7 @@ For example
 >lines\
 >"""
 
-goes with "\"
+goes with `\`
 
 Doubles and Blooen 
 
@@ -35,3 +35,8 @@ As you can see in the playground output, that sets the str variable to be “You
 You can do this as many times as you need, making strings out of strings if you want:
 
 var results = "The test results are here: \(str)"
+
+Constant
+`let` lets a variable remain constant. for exmample `let mike = "mouse"`
+
+finanally, you can make specific type by typing it out. 
